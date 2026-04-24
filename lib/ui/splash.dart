@@ -17,7 +17,7 @@ class _SplashPageState extends State<SplashPage> {
       body: Container(
         decoration: BoxDecoration(
           gradient: LinearGradient(
-            colors: [const Color.fromARGB(255, 243, 33, 33), const Color.fromARGB(255, 205, 34, 34)],
+            colors: [const Color.fromARGB(255, 107, 11, 11), const Color.fromARGB(255, 113, 53, 53)],
             begin: Alignment.topLeft,
             end: Alignment.bottomRight,
           ),
@@ -35,7 +35,7 @@ class _SplashPageState extends State<SplashPage> {
                   textAlign: TextAlign.center,
                   style: TextStyle(
                     fontSize: 28,
-                    color: Colors.white,
+                    color: const Color.fromARGB(255, 245, 199, 199),
                     fontWeight: FontWeight.bold,
                   ),
                 ),
@@ -57,7 +57,7 @@ class _SplashPageState extends State<SplashPage> {
                 ElevatedButton(
                   style: ElevatedButton.styleFrom(
                     padding: EdgeInsets.symmetric(horizontal: 40, vertical: 15),
-                    backgroundColor: Colors.white,
+                    backgroundColor: const Color.fromARGB(255, 68, 5, 5),
                   ),
                   onPressed: () {
                     Navigator.push(
@@ -67,7 +67,7 @@ class _SplashPageState extends State<SplashPage> {
                       ),
                     );
                   },
-                  child: Text("Iniciar", style: TextStyle(color: Colors.black)),
+                  child: Text("Iniciar", style: TextStyle(color: const Color.fromARGB(255, 219, 200, 200))),
                 ),
               ],
             ),

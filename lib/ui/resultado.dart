@@ -21,7 +21,7 @@ class ResultadoPage extends StatelessWidget {
       body: Container(
         decoration: BoxDecoration(
           gradient: LinearGradient(
-            colors: [const Color.fromARGB(255, 61, 77, 213), Colors.blue],
+            colors: [const Color.fromARGB(255, 144, 39, 39), const Color.fromARGB(255, 187, 161, 161)],
           ),
         ),
         child: Center(

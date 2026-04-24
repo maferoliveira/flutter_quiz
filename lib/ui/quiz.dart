@@ -84,7 +84,8 @@ class _QuizPageState extends State<QuizPage> {
       backgroundColor: Colors.grey[100],
       appBar: AppBar(
         title: Text("Pergunta ${index + 1}"),
-        backgroundColor: const Color.fromARGB(255, 134, 0, 0),
+        backgroundColor: const Color.fromARGB(255, 88, 18, 18),
+        foregroundColor: const Color.fromARGB(255, 209, 182, 182),
       ),
       body: Padding(
         padding: EdgeInsets.all(20),
@@ -93,7 +94,7 @@ class _QuizPageState extends State<QuizPage> {
             Container(
               padding: EdgeInsets.all(20),
               decoration: BoxDecoration(
-                color: Colors.white,
+                color: const Color.fromARGB(255, 223, 150, 150),
                 borderRadius: BorderRadius.circular(20),
                 boxShadow: [BoxShadow(color: Colors.black12, blurRadius: 10)],
               ),
@@ -114,7 +115,7 @@ class _QuizPageState extends State<QuizPage> {
                   (i) => Container(
                     margin: EdgeInsets.symmetric(vertical: 5),
                     decoration: BoxDecoration(
-                      color: Colors.white,
+                      color: const Color.fromARGB(255, 244, 196, 196),
                       borderRadius: BorderRadius.circular(15),
                     ),
                     child: RadioListTile<int>(
@@ -130,11 +131,11 @@ class _QuizPageState extends State<QuizPage> {
 
             ElevatedButton(
               style: ElevatedButton.styleFrom(
-                backgroundColor: const Color.fromARGB(255, 195, 195, 195),
+                backgroundColor: const Color.fromARGB(255, 91, 20, 20),
                 padding: EdgeInsets.symmetric(horizontal: 40, vertical: 15),
               ),
               onPressed: responder,
-              child: Text("Responder"),
+              child: Text("Responder", style: TextStyle(color: const Color.fromARGB(255, 196, 174, 174))),
             ),
           ],
         ),
