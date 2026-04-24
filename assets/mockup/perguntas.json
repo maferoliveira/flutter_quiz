@@ -1,0 +1,222 @@
+[
+    {
+        "id": 1,
+        "pergunta": "Qual é a unidade da frequência?",
+        "respostas": [
+            "Hz",
+            "m/s",
+            "N",
+            "J"
+        ],
+        "correta": 1
+    },
+    {
+        "id": 2,
+        "pergunta": "A velocidade da luz no vácuo é:",
+        "respostas": [
+            "3x10^8 m/s",
+            "300 m/s",
+            "1500 m/s",
+            "3x10^6 m/s"
+        ],
+        "correta": 1
+    },
+    {
+        "id": 3,
+        "pergunta": "A resistência elétrica é medida em:",
+        "respostas": [
+            "Volt",
+            "Ohm",
+            "Ampere",
+            "Watt"
+        ],
+        "correta": 2
+    },
+    {
+        "id": 4,
+        "pergunta": "A fórmula da velocidade da onda é:",
+        "respostas": [
+            "v = f . λ",
+            "v = m . a",
+            "E = mc²",
+            "P = U . i"
+        ],
+        "correta": 1
+    },
+    {
+        "id": 5,
+        "pergunta": "A unidade de corrente elétrica é:",
+        "respostas": [
+            "Volt",
+            "Ohm",
+            "Ampere",
+            "Joule"
+        ],
+        "correta": 3
+    },
+    {
+        "id": 6,
+        "pergunta": "Qual fenômeno ocorre quando a luz muda de meio?",
+        "respostas": [
+            "Reflexão",
+            "Refração",
+            "Difração",
+            "Interferência"
+        ],
+        "correta": 2
+    },
+    {
+        "id": 7,
+        "pergunta": "A energia potencial gravitacional depende de:",
+        "respostas": [
+            "Velocidade",
+            "Altura",
+            "Tempo",
+            "Pressão"
+        ],
+        "correta": 2
+    },
+    {
+        "id": 8,
+        "pergunta": "Qual é a unidade de potência?",
+        "respostas": [
+            "Watt",
+            "Joule",
+            "Newton",
+            "Volt"
+        ],
+        "correta": 1
+    },
+    {
+        "id": 9,
+        "pergunta": "O que mede a intensidade da corrente elétrica?",
+        "respostas": [
+            "Voltímetro",
+            "Amperímetro",
+            "Ohmímetro",
+            "Barômetro"
+        ],
+        "correta": 2
+    },
+    {
+        "id": 10,
+        "pergunta": "A fórmula da potência elétrica é:",
+        "respostas": [
+            "P = U . i",
+            "v = d/t",
+            "F = m . a",
+            "E = mgh"
+        ],
+        "correta": 1
+    },
+    {
+        "id": 11,
+        "pergunta": "A unidade de carga elétrica é:",
+        "respostas": [
+            "Coulomb",
+            "Ampere",
+            "Volt",
+            "Ohm"
+        ],
+        "correta": 1
+    },
+    {
+        "id": 12,
+        "pergunta": "O campo elétrico é medido em:",
+        "respostas": [
+            "N/C",
+            "J",
+            "W",
+            "V"
+        ],
+        "correta": 1
+    },
+    {
+        "id": 13,
+        "pergunta": "A Lei de Ohm é:",
+        "respostas": [
+            "U = R . i",
+            "F = m . a",
+            "v = f . λ",
+            "E = mc²"
+        ],
+        "correta": 1
+    },
+    {
+        "id": 14,
+        "pergunta": "O que acontece em um curto-circuito?",
+        "respostas": [
+            "Aumenta a resistência",
+            "Diminui a corrente",
+            "Corrente muito alta",
+            "Nada acontece"
+        ],
+        "correta": 3
+    },
+    {
+        "id": 15,
+        "pergunta": "A unidade de energia é:",
+        "respostas": [
+            "Watt",
+            "Joule",
+            "Volt",
+            "Ampere"
+        ],
+        "correta": 2
+    },
+    {
+        "id": 16,
+        "pergunta": "O som é uma onda:",
+        "respostas": [
+            "Eletromagnética",
+            "Mecânica",
+            "Luminosa",
+            "Gravitacional"
+        ],
+        "correta": 2
+    },
+    {
+        "id": 17,
+        "pergunta": "A frequência está relacionada com:",
+        "respostas": [
+            "Altura do som",
+            "Volume",
+            "Intensidade",
+            "Velocidade"
+        ],
+        "correta": 1
+    },
+    {
+        "id": 18,
+        "pergunta": "A refração ocorre quando:",
+        "respostas": [
+            "A luz reflete",
+            "A luz muda de meio",
+            "A luz para",
+            "A luz some"
+        ],
+        "correta": 2
+    },
+    {
+        "id": 19,
+        "pergunta": "A unidade de tensão elétrica é:",
+        "respostas": [
+            "Volt",
+            "Ampere",
+            "Ohm",
+            "Joule"
+        ],
+        "correta": 1
+    },
+    {
+        "id": 20,
+        "pergunta": "A energia cinética depende de:",
+        "respostas": [
+            "Altura",
+            "Velocidade",
+            "Temperatura",
+            "Pressão"
+        ],
+        "correta": 2
+    }
+]
